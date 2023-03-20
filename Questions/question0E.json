@@ -1,0 +1,166 @@
+[
+  
+    {
+      "question": "Who has written the story 'The Naive Friends'?",
+      "choice1": "Prem Chand",
+      "choice2": "Ray Douglas Bradbury",
+      "choice3": "Zai Whitaker",
+      "choice4": "Anita Desai",
+      "answer": 1
+    },
+    {
+      "question": " Why did Shyama keep quit in front of mother?",
+      "choice1": "She was bold",
+      "choice2": "She was weak",
+      "choice3": "She was tense",
+      "choice4": "She was scared",
+      "answer": 4
+    },
+    {
+      "question": "What made Keshav and his sister forget about the joys of milk and jalebi?",
+      "choice1": "The pleasure of seeing the flying of two birds.",
+      "choice2": "The pleasure of reading books.",
+      "choice3": "The pleasure of watching cinema.",
+      "choice4": "None of these",
+      "answer": 1
+    },
+    {
+      "question":"What did the children do to protect the eggs in the story 'The Naive Friends'?",
+      "choice1": "made nest and cover",
+      "choice2": "made cage and cornice",
+      "choice3": "made cushion and roof",
+      "choice4": "made clothes and cover",
+      "answer": 3
+    },
+    {
+      "question": "Where did the birds lay their eggs in the story 'The Naive Friends'?",
+      "choice1": "above the roof",
+      "choice2":"above the cornice",
+      "choice3":"above the window",
+      "choice4": "above the garage",
+      "answer": 2
+    },
+    {
+      "question":"How did Keshav manage to reach the cornice?",
+      "choice1":"by climbing on stool", 
+      "choice2": "by climbing on rope",
+      "choice3": "by climbing on ladder ",
+      "choice4": "None of these",
+      "answer": 1
+    },
+    {
+      "question": "Why did the birds drop the eggs themselves?", 
+      "choice1": "The nest was broken",
+      "choice2": "They were tainted",
+      "choice3": "the chicks had come out",
+      "choice4": "They were very small",
+      "answer": 2
+    },
+    {
+      "question":"A bird had laid eggs ....... the cornice.", 
+      "choice1":"just below", 
+      "choice2": "near",
+      "choice3": "just above",
+      "choice4":"None of these",
+      "answer": 3
+    },
+    {
+      "question":"Who has written the story 'Kali and the Rat Snake'?",
+      "choice1": "Prem Chand",
+      "choice2": "Ray Douglas Bradbury",
+      "choice3": "Zai Whitaker",
+      "choice4": "Anita Desai",
+      "answer": 3
+    },
+    {
+      "question":"Kali belongs to which tribe?", 
+      "choice1": "Irula tribe",
+      "choice2": "Khasi tribe",
+      "choice3":"Munda tribe",
+      "choice4":"Paharia tribe",
+      "answer": 1
+    },
+    {
+      "question":"Who was sitting on the desk in the story 'Kali and the Rat Snake'?",
+      "choice1": "Teacher",
+      "choice2":"Kali",
+      "choice3":"Rat Snake",
+      "choice4":"Ramesh",
+      "answer": 1
+    },
+    {
+      "question":"What had Kali brought for lunch?", 
+      "choice1": "bread",
+      "choice2": "termites",
+      "choice3":"chapati",
+      "choice4":"snacks",
+      "answer": 2
+    },
+    {
+      "question":"Why did Kali hate going to school?", 
+      "choice1": "he liked to play at home",
+      "choice2": "it was very far",
+      "choice3": "he had no friends",
+      "choice4": "the teachers disliked him",
+      "answer": 3
+    },
+   
+  {
+    "question": "Why were the Children in the class shouting for help?",
+    "choice1": "because they saw fire",
+    "choice2":"because they saw a tiger",
+    "choice3":"because they saw a rat snake",
+    "choice4": "None of these",
+    "answer": 3
+  },
+  {
+    "question":"Who belonged to Kanathoor village?", 
+    "choice1": "Kali",
+    "choice2": "Keshav",
+    "choice3":"Praksha",
+    "choice4": "Repesh",
+    "answer": 1
+  },
+  {
+    "question":"What does WCF stand for?",
+    "choice1": "West Cooling Factor",
+    "choice2": "Wind Chill Factor",
+    "choice3": "Wind Cooling Factor",
+    "choice4": "None of these",
+    "answer": 2
+  },
+  {
+      "question":"What does the word 'Siachen' really mean?",
+      "choice1":"A land with an abundance of snow",
+      "choice2":"A land with an abundance of grasses",
+      "choice3":"A land with an abundance of sheep",
+      "choice4":"A land with an abudance of roses",
+      "answer": 4
+    },
+    {
+      "question": "What is the leading cause of deaths in siachen ?",
+      "choice1": "Poor clothing and WCF",
+      "choice2": "Strong winds and no electricity",
+      "choice3": "Avalanche and other environmental factors",
+      "choice4":"Disease and envvironmental factors", 
+      "answer": 3
+    },
+    {
+      "question": "Name 'Siachen' refers to a land with an abundance of --", 
+      "choice1": "Ice",
+      "choice2": "Water",
+      "choice3": "Roses",
+      "choice4":"Rock",
+      "answer": 3
+    },
+    {
+      "question":"What miracle did the Emperor's servant see?", 
+      "choice1":"A man ploughing in the field",
+      "choice2": "A man flying in the sky",
+      "choice3": "A man constructing a house",
+      "choice4": "A man playing football",
+      "answer": 2
+    }
+    
+   
+]

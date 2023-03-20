@@ -1,0 +1,176 @@
+[
+    {
+       "question":"What was Mr. Ramesh proud of?",
+       "choice1":"Because his son captured a bull",
+       "choice2": "Because his son received an international online certificate",
+       "choice3": "Because his son was smart and intellingent",
+       "choice4": "None of these",
+       "answer": 2
+   
+   },
+   {
+       "question":"What made Rupesh's father angry?",
+       "choice1":"Because Rupesh had got poor grades in the exam",
+       "choice2":"Because Rupesh had obtained fair marks in the examination",
+       "choice3":"Because Rupesh had not completed his studies",
+       "choice4":"Because Rupesh had done hard work",
+       "answer": 1
+   },
+   {
+       "question":"In which restaurant did Hari start working?",
+       "choice1":"The Krishna Eating House",
+       "choice2": "Shree Krishna Rice Mills",
+       "choice3": "The Shree Krishna restaurant",
+       "choice4": "None of these",
+       "answer": 1
+   
+   },
+   {
+       "question":"Why did the two boys in the kitchen not speak to Hari?",
+       "choice1":"They were neither friendly nor inquisitive?",
+       "choice2":"They did not like Hari",
+       "choice3":"The Shop owner had asked them not to speak",
+       "choice4":"They could hear or speak",
+       "answer": 1
+   },
+   {
+       "question":"These people seemed to have no fixed working hours means - ",
+       "choice1":"The people worked for unlimited period",
+       "choice2": "The people had fixed working hours",
+       "choice3": "The people had to work for short period",
+       "choice4":"None of these", 
+       "answer": 1
+   
+   },
+   {
+       "question":"I have no money to pay for all these food you are giving me. Will you let me work in your kitchen instead? means",
+       "choice1":"Hari was very proud",
+       "choice2":"Hari did not liked the food",
+       "choice3":"Hari didn't want to take anything without paying",
+       "choice4":"None of these",
+       "answer": 3
+   },
+   {
+       "question":"What was the name of the Watch Shop",
+       "choice1":"Ding Dong Watch Company",
+       "choice2": "Ding Dong Watch Works",
+       "choice3": "Watch Repairing Shop",
+       "choice4":"None of these",
+       "answer": 2
+   
+   },
+   {
+       "question":"Hari did not write his address on the letter because",
+       "choice1":"He did not want to go home",
+       "choice2":"He knew that he would stay, work and earn",
+       "choice3":"He did not want to be caught",
+       "choice4":"None of these",
+       "answer": 2
+   },
+   {
+       "question":"What was the name of Hari's village?",
+       "choice1":"Bombay",
+       "choice2": "Black Horse",
+       "choice3": "Thul",
+       "choice4": "Sri Krishna",
+       "answer": 3
+   
+   },
+   {
+       "question":"Why was Hari happy and frightened both?",
+       "choice1":"Happy for earning and frightened for not going home",
+       "choice2":"Happy for writing letter and frightened for going home",
+       "choice3":"Happy for writing letter and frightened for not having pen",
+       "choice4":"None of these",
+       "answer": 1
+   },
+   {
+       "question":"Who was the owner of 'The Sri Krishna Eating House' ?",
+       "choice1":"Hari",
+       "choice2": "Watchman",
+       "choice3": "Old gentleman",
+       "choice4": "Jagu",
+       "answer": 4
+   
+   },
+   {
+       "question":"With whom did Malala share her Noble Prize?",
+       "choice1":"Kailash Satyarthi",
+       "choice2":"Dalai Lama",
+       "choice3":"Nelson Mandela",
+       "choice4":"Severn Suzuki",
+       "answer": 1
+   },
+   {
+       "question":"Malala Yusufzai has raised a voice for which issue?",
+       "choice1":"For the education of boys",
+       "choice2": "For the education of girls",
+       "choice3": "For the education of people",
+       "choice4": "For the education of kids",
+       "answer": 2
+   
+   },
+   {
+       "question":"Why was Suzuki's speech was effective?",
+       "choice1":"Because she raised the voice for the major environmental problems",
+       "choice2":"Because she raised a voice against exploitation",
+       "choice3":"Because she raised the problem regarding poverty",
+       "choice4":"None of these",
+       "answer": 1
+   },
+   {
+       "question":"Who is the poet of the poem 'My Mother' ?",
+       "choice1":"Subramania Bharti",
+       "choice2": "A. P. J. Abdul Kalam",
+       "choice3": "William Words Worth",
+       "choice4": "Robert Frost",
+       "answer": 2
+   
+   },
+   {
+       "question":"Which places of his childhood days does the poet recall in the poem 'My Mother'?",
+       "choice1":"Rameshwaram",
+       "choice2":"Indore",
+       "choice3":"Rourkela",
+       "choice4":"Patna",
+       "answer": 1
+   },
+   {
+       "question":"When does the child in the poem 'My Mother' say that he will meet his mother again?",
+       "choice1":"Great Judgement Day",
+       "choice2": "Great Trial Day",
+       "choice3": "Great Verdict Day",
+       "choice4": "Great Hearing Day",
+       "answer": 1
+   
+   },
+   {
+       "question":"What are the feeling of the poet for his mother?",
+       "choice1":"Her odd behaviour",
+       "choice2":"A great love and affection",
+       "choice3":"A great love and prejudice",
+       "choice4":"None of these",
+       "answer": 2
+   },
+   {
+       "question":"Who wandered lonely as a cloud?",
+       "choice1":"I",
+       "choice2": "The poet",
+       "choice3": "You",
+       "choice4": "None of these",
+       "answer": 2
+   
+   },
+   {
+       "question":"The poet saw a crowd of _______",
+       "choice1":"The Children",
+       "choice2":"People",
+       "choice3":"Daffodils",
+       "choice4":"None of these",
+       "answer": 3
+   }
+   
+   
+   
+   
+   ]

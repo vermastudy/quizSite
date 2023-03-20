@@ -1,0 +1,177 @@
+[
+   
+ {
+    "question":"Why did King John ask such foolish question?",
+    "choice1":"He was a foolish king",
+    "choice2": "He wanted to kill the Abbot",
+    "choice3": "He wanted to show his power",
+    "choice4": "He wanted to create fear",
+    "answer": 4
+
+},
+{
+    "question":"What was the emperor's own creation?",
+    "choice1":"A flying Machine",
+    "choice2":"The Great Wall of China",
+    "choice3":"A Dragon of paper and bamboo",
+    "choice4":"A garden of metals and jewels",
+    "answer": 4
+},
+{
+    "question":"What had king John heard about the Abbot of Canterbury? ",
+    "choice1":"Abbot kept a big horse than the king",
+    "choice2": "Abbot kept a far better house than the king",
+    "choice3":"Abbot kept a far better umbrella than the king", 
+    "choice4":"Abbot kept a far better pen than the king", 
+    "answer": 2
+
+},
+{
+    "question":"Who said, 'You shall live until the day you die, and not one day longer.' ",
+    "choice1":"King John",
+    "choice2":"Abbot of Canterbury",
+    "choice3":"Shepherd",
+    "choice4":"Brave Knights",
+    "answer": 3
+},
+{
+    "question":"Where did the emperor, the servant and the flier paused?",
+    "choice1":"Within the premises",
+    "choice2": "Within the huge garden",
+    "choice3": "Within the stable",
+    "choice4": "Within the room",
+    "answer": 2
+
+},
+{
+    "question":" 'I saw him in the air, a man flying with ____",
+    "choice1":"Wings",
+    "choice2":"Hands",
+    "choice3":"Bodies",
+    "choice4":"Tails",
+    "answer": 1
+},
+{
+    "question":" ' The air is sweet this morning' Who said this?",
+    "choice1": "Emperor Yuan",
+    "choice2": "The Servant",
+    "choice3": "The Flier",
+    "choice4": "None of these",
+    "answer": 1
+
+},
+{
+    "question":"The executioner's face was covered with a serene _____",
+    "choice1":"Black Mask",
+    "choice2":"White Mask",
+    "choice3":"Purple Mask",
+    "choice4":"Grey Mark",
+    "answer": 2
+},
+{
+    "question":"Ray Douglas was an ____________ author?",
+    "choice1":"English",
+    "choice2": "Australian",
+    "choice3": "American",
+    "choice4": "Austrian",
+    "answer": 3
+
+},
+{
+    "question":"The emperor clap his hand to call _______ .",
+    "choice1":"The Guard",
+    "choice2":"The Servant",
+    "choice3":"The Flier",
+    "choice4":"None of these",
+    "answer": 1
+},
+{
+    "question": "The flying machine was set ______ .",
+    "choice1":"In stand still",
+    "choice2": "At rest",
+    "choice3": "In motion",
+    "choice4": "None of these",
+    "answer": 3
+
+},
+{
+    "question":"The executioner ________ his silver axe.",
+    "choice1":"Whirled",
+    "choice2":"Twisted",
+    "choice3":"Paced",
+    "choice4":"Used",
+    "answer": 1
+},
+{
+    "question":"Which award was awarded to Sania Mirza?",
+    "choice1": "Arjuna Award",
+    "choice2": "Nobel Prize",
+    "choice3": "Golden Award",
+    "choice4": "Phalke Award",
+    "answer": 1
+
+},
+{
+    "question":"When did Sania Mirza start playing?",
+    "choice1":"At the age of 10",
+    "choice2":"At the age of 12",
+    "choice3":"At the age of 5",
+    "choice4":"None of these",
+    "answer": 3
+},
+{
+    "question":"How many titles and awards has Sania Mirza own?",
+    "choice1":"11 W.T.A and 3 I.T.F",
+    "choice2": "21 W.T.A and 1 I.T.F",
+    "choice3": "41 W.T.A and 4 I.T.F",
+    "choice4": "44 W.T.A and 2 I.T.F",
+    "answer": 3
+
+},
+{
+    "question":"Who is the first Indian Women to win the Olympic Medal in Badminton?",
+    "choice1":"Sania Mirza",
+    "choice2":"P.V. Sindhu",
+    "choice3":"Anjali Bhagwat",
+    "choice4":"P.T. Usha",
+    "answer": 2
+},
+{
+    "question":"What is produnova?",
+    "choice1":"A type of ball in cricket",
+    "choice2": "A type of throw in shortput",
+    "choice3": "A type of artistic gymnastics vault",
+    "choice4": "A type of jump in steeple chess",
+    "answer": 3
+
+},
+{
+    "question":"Who is Mary Kom?",
+    "choice1":"A tennis player",
+    "choice2":"Archer",
+    "choice3":"Shooter",
+    "choice4":"Boxer",
+    "answer": 4
+},
+{
+    "question":"The phogat sisters are associated with ______",
+    "choice1":"Tennis",
+    "choice2": "Cricket",
+    "choice3": "Badminton",
+    "choice4": "Wrestling",
+    "answer": 4
+
+},
+{
+    "question":"What according to Rupesh was useful for his studies?",
+    "choice1":"T.V and Radio",
+    "choice2":"Textbook and Newspapers",
+    "choice3":"Smartphone and T.V.",
+    "choice4":"Newspaper and T.V.",
+    "answer": 2
+}
+
+
+
+
+]
