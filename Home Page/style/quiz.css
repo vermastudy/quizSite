@@ -209,8 +209,7 @@ nav button {
     
 }
 .inactive{
-    /* background: rgba(204, 47, 4, 1); */
-    background-color: rgb(200, 54, 34, 0.5);
+  opacity: 0.3;
 }
 
 .categoryImg{
