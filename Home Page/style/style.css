@@ -218,6 +218,10 @@ header {
 
 }
 
+.inactive{
+    opacity: 0.3;
+}
+
 .category:hover {
     box-shadow: 0 3rem 3rem rgba(0, 0, 0, 0.3);
     z-index: 1;
