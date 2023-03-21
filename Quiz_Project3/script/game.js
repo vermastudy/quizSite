@@ -13,7 +13,7 @@ let availableQuesions = [];
 
 let questions = [];
 
-fetch('/Questions/question3E.json')
+fetch('../../Questions/question3E.json')
     .then((res) => {
         return res.json();
     })
