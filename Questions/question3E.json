@@ -145,8 +145,8 @@
    
    },
    {
-       "question":" Choose the correct pronoun:
-       'Sita is a good girl.   ....... is 10 years old.' ",
+       "question":" Choose the correct pronoun:",
+       "'Sita is a good girl.   ....... is 10 years old.' ",
        "choice1":"If",
        "choice2":"He",
        "choice3":"They",
@@ -154,7 +154,7 @@
        "answer": 4
    },
    {
-       "question":"The simple past tense of the sentence -
+       "question":"The simple past tense of the sentence -",
        " 'They visit Shimla in summer.'is- ",
        "choice1":"They will visit Shimla in summer.",
        "choice2": "They are visiting Shimla in summer.",
@@ -164,8 +164,8 @@
    
    },
    {
-       "question":"The present perfect continuous form of the verb in, 
-       'She ........... studying all day.' is- ",
+       "question":"The present perfect continuous form of the verb in, ", 
+       "'She ........... studying all day.' is- ",
        "choice1":"has been",
        "choice2":"is been",
        "choice3":"have been",
