@@ -153,7 +153,7 @@
        "answer": 2
    },
    {
-       "question":"Who wandered lonely as a cloud?",
+       "question":"In the poem 'Daffodils' who wandered lonely as a cloud?",
        "choice1":"I",
        "choice2": "The poet",
        "choice3": "You",
@@ -162,7 +162,7 @@
    
    },
    {
-       "question":"The poet saw a crowd of _______",
+       "question":"The poet saw a crowd of _______" in the poem 'Daffodils' ",
        "choice1":"The Children",
        "choice2":"People",
        "choice3":"Daffodils",
