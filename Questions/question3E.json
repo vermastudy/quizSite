@@ -1,173 +1,176 @@
 [
     {
-       "question":
-       "choice1":
-       "choice2": 
-       "choice3": 
-       "choice4": 
-       "answer": 
+       "question":"Where were the daffodils fluttering and dancing in the poem 'Daffodils' ?",
+       "choice1":"beside the river",
+       "choice2": "on the mountain",
+       "choice3": "in the forest",
+       "choice4": "beneath the trees",
+       "answer": 3
    
    },
    {
-       "question":
-       "choice1":
-       "choice2":
-       "choice3":
-       "choice4":
-       "answer": 
+       "question":"Who has composed the poem 'Bharat Our Land'?",
+       "choice1":"Subramania Bharti",
+       "choice2":"A. P. J. Abdul Kalam",
+       "choice3":"R. L. B. Stevenson",
+       "choice4":"Robert Frost",
+       "answer": 1
    },
    {
-       "question":
-       "choice1":
-       "choice2": 
-       "choice3": 
-       "choice4": 
-       "answer": 
+       "question":"Who had preached Dhamma in Bharat Land?",
+       "choice1":"Shankaracharya",
+       "choice2": "Mahavir",
+       "choice3": "Buddha",
+       "choice4": "Vivekanad",
+       "answer": 3
    
    },
    {
-       "question":
-       "choice1":
-       "choice2":
-       "choice3":
-       "choice4":
-       "answer": 
+       "question":"Robert Frost had written the poem - ",
+       "choice1":"Stopping by the woods on a snowy evening",
+       "choice2":"My Mother",
+       "choice3":"Daffodils",
+       "choice4":"Bharat Our Land",
+       "answer": 1
    },
    {
-       "question":
-       "choice1":
-       "choice2": 
-       "choice3": 
-       "choice4": 
-       "answer": 
+       "question":"When and where did the rider stop in the poem 'Stopping by the woods in a snowy evening' ?",
+       "choice1":"by a forest on a  gloomy day",
+       "choice2": "by a lake on a snowy evening",
+       "choice3": "by a forest on a snowy evening",
+       "choice4": "None of these",
+       "answer": 3
    
    },
    {
-       "question":
-       "choice1":
-       "choice2":
-       "choice3":
-       "choice4":
-       "answer": 
+       "question":"Why did the horse shake the bell ?",
+       "choice1":"if there was any happening",
+       "choice2":"if there was any  mistake",
+       "choice3":"if there was any problem",
+       "choice4":"None of these",
+       "answer": 2
    },
    {
-       "question":
-       "choice1":
-       "choice2": 
-       "choice3": 
-       "choice4": 
-       "answer": 
+       "question":"How long does the child stay in 'The Land of Story Books' ? ",
+       "choice1":"till it is time to go to sleep",
+       "choice2": "till it is time to go to school",
+       "choice3": "till it is time to play",
+       "choice4": "till it is time to eat",
+       "answer": 1
    
    },
    {
-       "question":
-       "choice1":
-       "choice2":
-       "choice3":
-       "choice4":
-       "answer": 
+       "question":"Which line in the poem 'The land of storybooks' suggest the child's love for story books? ",
+       "choice1":"home I return across the seas",
+       "choice2":"and go to bed with backward looks",
+       "choice3":"away behind the sofa back",
+       "choice4":"I see the others for away",
+       "answer": 2
    },
    {
-       "question":
-       "choice1":
-       "choice2": 
-       "choice3": 
-       "choice4": 
-       "answer": 
+       "question":"In the poem 'The Land of Story Books' what does the poet do when his parents sit and talk in the evening?",
+       "choice1":"He goes to camp",
+       "choice2": "He reads story books",
+       "choice3": "(1) and (2) both",
+       "choice4": "None of these",
+       "answer": 2
    
    },
    {
-       "question":
-       "choice1":
-       "choice2":
-       "choice3":
-       "choice4":
-       "answer": 
+       "question":"In the poem 'The Land of Story Books' where does the child lie so that no one can see him?",
+       "choice1":"behind the camp",
+       "choice2":"behind the sofa back",
+       "choice3":"(1) and (2) both",
+       "choice4":"None of these",
+       "answer": 1
    },
    {
-       "question":
-       "choice1":
-       "choice2": 
-       "choice3": 
-       "choice4": 
-       "answer": 
+       "question":"The poem 'A Heritage of Trees' has been written by - ",
+       "choice1":"Robert Frost",
+       "choice2": "A. P. J. Abdul Kalam",
+       "choice3": "David Horsburgh",
+       "choice4": "Ruskin Bond",
+       "answer": 3
    
    },
    {
-       "question":
-       "choice1":
-       "choice2":
-       "choice3":
-       "choice4":
-       "answer": 
+       "question":"What does 'a tragic sight' in the poem 'A Heritage of trees' refer to ?",
+       "choice1":"Trees with no fruits",
+       "choice2":"Trees with branches cut off",
+       "choice3":"Trees with no roots",
+       "choice4":"Trees with leaves fallen off",
+       "answer": 2
    },
    {
-       "question":
-       "choice1":
-       "choice2": 
-       "choice3": 
-       "choice4": 
-       "answer": 
+       "question":"What is the opposite of 'harmful' ?",
+       "choice1":"bad",
+       "choice2": "beautiful",
+       "choice3": "useful",
+       "choice4": "poisonous",
+       "answer": 3
    
    },
    {
-       "question":
-       "choice1":
-       "choice2":
-       "choice3":
-       "choice4":
-       "answer": 
+       "question":"The opposite of 'honest' is - ",
+       "choice1":"Dishonest",
+       "choice2":"Bought",
+       "choice3":"Refused",
+       "choice4":"Walked",
+       "answer": 1
    },
    {
-       "question":
-       "choice1":
-       "choice2": 
-       "choice3": 
-       "choice4": 
-       "answer": 
+       "question":"Correct form of the possessive noun of the words in the 'This is my ........ (sister) book.",
+       "choice1":"sisters",
+       "choice2": "sister's",
+       "choice3": "sisters' ",
+       "choice4": "None of these",
+       "answer": 2
    
    },
    {
-       "question":
-       "choice1":
-       "choice2":
-       "choice3":
-       "choice4":
-       "answer": 
+       "question":"Which sentence has a possessive noun?",
+       "choice1":"My father bought a book.",
+       "choice2":"This is my father's book.",
+       "choice3":"My father reads books.",
+       "choice4":"The book belongs to my father.",
+       "answer": 2
    },
    {
-       "question":
-       "choice1":
-       "choice2": 
-       "choice3": 
-       "choice4": 
-       "answer": 
+       "question":"Sameer, ......... company is mearby, will be able to walk to work.",
+       "choice1":"whose",
+       "choice2": "which",
+       "choice3": "whom",
+       "choice4": "when",
+       "answer": 1
    
    },
    {
-       "question":
-       "choice1":
-       "choice2":
-       "choice3":
-       "choice4":
-       "answer": 
+       "question":" Choose the correct pronoun:
+       'Sita is a good girl.   ....... is 10 years old.' ",
+       "choice1":"If",
+       "choice2":"He",
+       "choice3":"They",
+       "choice4":"She",
+       "answer": 4
    },
    {
-       "question":
-       "choice1":
-       "choice2": 
-       "choice3": 
-       "choice4": 
-       "answer": 
+       "question":"The simple past tense of the sentence -
+       " 'They visit Shimla in summer.'is- ",
+       "choice1":"They will visit Shimla in summer.",
+       "choice2": "They are visiting Shimla in summer.",
+       "choice3": "They had been visiting Shimla in summer.",
+       "choice4": "They visited Shimla in summer.",
+       "answer": 4
    
    },
    {
-       "question":
-       "choice1":
-       "choice2":
-       "choice3":
-       "choice4":
-       "answer": 
+       "question":"The present perfect continuous form of the verb in, 
+       'She ........... studying all day.' is- ",
+       "choice1":"has been",
+       "choice2":"is been",
+       "choice3":"have been",
+       "choice4":"had been",
+       "answer": 1
    }
    
    
