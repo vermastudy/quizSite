@@ -1,0 +1,175 @@
+[
+    {
+       "question":"Evelyn Glennie was the daughter of ........",
+       "choice1":"Isabel Glennie",
+       "choice2": "Mrs. Jones Glennie",
+       "choice3": "Mrs. Katherine",
+       "choice4": "Mrs. Brunt",
+       "answer": 1
+   
+   },
+   {
+       "question":"Evelyn's deafness was first noticed at the age of - ",
+       "choice1":"eight",
+       "choice2":"ten",
+       "choice3":"five",
+       "choice4":"nine",
+       "answer": 4
+   },
+   {
+       "question":"Evelyn went to the Royal Academic of Music at the age of -",
+       "choice1":"ten",
+       "choice2": "twelve",
+       "choice3": "fifteen",
+       "choice4": "seventeen",
+       "answer": 4
+   
+   },
+   {
+       "question":"Royal Academy of Music is situated in ..........",
+       "choice1":"America",
+       "choice2":"London",
+       "choice3":"France",
+       "choice4":"American",
+       "answer": 2
+   },
+   {
+       "question":"Evelyn was a ..........  girl.",
+       "choice1":"German",
+       "choice2": "Scottish",
+       "choice3": "French",
+       "choice4": "American",
+       "answer": 2
+   
+   },
+   {
+       "question":"When was Evelyn Glennie's deafness confirmed?",
+       "choice1":"At the age of 11 years",
+       "choice2":"At the age of 18 years",
+       "choice3":"At the age of 8 years ",
+       "choice4":"At the age of 15 years",
+       "answer": 1
+   },
+   {
+       "question":"Evelyn gives free concerts in ..........",
+       "choice1":"prisons and hospitals ",
+       "choice2": "schools and streets",
+       "choice3": "hospitals and schools",
+       "choice4": "None of these",
+       "answer": 1
+   
+   },
+   
+   {
+       "question":"What did Ron Forbes advise Evelyn?",
+       "choice1":"Forget music ",
+       "choice2": "Feel music with her body",
+       "choice3": "Listen to music",
+       "choice4": "None of these",
+       "answer": 2
+   
+   },
+   {
+       "question":"Who improved the sound quality of the pungi?",
+       "choice1":"A tailor ",
+       "choice2":"A farmer",
+       "choice3":"A cobler",
+       "choice4":"A barber",
+       "answer": 4
+   },
+   {
+       "question":"Which  instrument got the name reeded noisemaker?",
+       "choice1":"Flute",
+       "choice2": "Piano",
+       "choice3": "Pungi",
+       "choice4": "Harmonium",
+       "answer": 3
+   
+   },
+   {
+       "question":"How many holes were made on the body of the pipe?",
+       "choice1":"Four ",
+       "choice2":"Five",
+       "choice3":"Six",
+       "choice4":"Seven",
+       "answer": 4
+   },
+   {
+       "question":"Who banned the playing of pungi in royal palace?",
+       "choice1":"Babur",
+       "choice2": "Akbar",
+       "choice3": "Shahjahan",
+       "choice4": "Aurangzeb",
+       "answer": 4
+   
+   },
+   {
+       "question":"Where was Bismillah Khan born?",
+       "choice1":"Buxar",
+       "choice2":"Dumraon",
+       "choice3":"Mathura",
+       "choice4":"Allahabad",
+       "answer": 2
+   },
+   {
+       "question":"Bismillah Khan's maternal uncle was-",
+       "choice1":"Jahangir",
+       "choice2": "Salim Khan",
+       "choice3": "Ali Bux",
+       "choice4": "Aurangzeb",
+       "answer": 3
+   
+   },
+   {
+       "question":"Bismillah Khan was deeply attached to ",
+       "choice1":"The Sutlej",
+       "choice2":"The Ganga",
+       "choice3":"The Narmada",
+       "choice4":"The Godavari",
+       "answer": 2
+   },
+   {
+       "question":"Bismillah was born on ............",
+       "choice1":"21st March 1916",
+       "choice2": "21st March 1919",
+       "choice3": "30th October 1917",
+       "choice4": "2nd October 1905",
+       "answer": 1
+   
+   },
+   {
+       "question":"Which highest Civilian Award (in 2001) did Bismillah Khan receive?",
+       "choice1":"Gallantery Award",
+       "choice2":"The Dronacharya Award",
+       "choice3":"The Bharat Ratna",
+       "choice4":"The Arjuna Award",
+       "answer": 3
+   },
+   {
+       "question":"Bismillah Khan used to sing ............ as a child.",
+       "choice1":"film song",
+       "choice2": "the Bhojpuri chaita",
+       "choice3": "Koras",
+       "choice4": "Countryside song",
+       "answer": 2
+   
+   },
+   {
+       "question":"Who is Bismillah Khan?",
+       "choice1":"Cricketer",
+       "choice2":"Musician",
+       "choice3":"Singer",
+       "choice4":"Shehnai player",
+       "answer": 4
+   },
+   {
+    "question": "Shehnai was named by a ...........  .",
+    "choice1":"Goldsmith",
+    "choice2":"Carpenter",
+    "choice3":"Barber",
+    "choice4":"Cobbler",
+    "answer":3
+   }
+   
+   
+   ]

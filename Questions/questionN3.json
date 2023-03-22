@@ -1,0 +1,176 @@
+[
+    {
+       "question":"Kezia should be taken to the Doctor to check her ...........",
+       "choice1":"Fever",
+       "choice2": "Cough",
+       "choice3": "Stammering",
+       "choice4": "Cold",
+       "answer": 3
+   
+   },
+   {
+       "question":"Kezia found her mother ............, after going to the drawing room.",
+       "choice1":"cooking",
+       "choice2":"sleeping",
+       "choice3":"fating",
+       "choice4":"reading",
+       "answer": 4
+   },
+   {
+       "question":"Name the smallest baby of the Macdonald's was - ",
+       "choice1":"Piu",
+       "choice2": "Lio",
+       "choice3": "Poco",
+       "choice4": "Mao",
+       "answer": 4
+   
+   },
+   {
+       "question":"Why was the little girl afraid?",
+       "choice1":"Her father was harsh and rude to her.",
+       "choice2":"Her mother didn't take care of her.",
+       "choice3":"Her grandmother was neglecting her all the time.",
+       "choice4":"She was lonely and had no one to take care of her.",
+       "answer": 1
+   },
+   {
+       "question":"What abnormality did Einstein suffer from in the childhood ?",
+       "choice1":"Learning Disability",
+       "choice2": "Speaking Disability",
+       "choice3": "Walking Disability",
+       "choice4": "Social Disability",
+       "answer": 2
+   
+   },
+   {
+       "question":"When did the famous paper of Einstein 'Special theory of Relativity' get published ?",
+       "choice1":"1901",
+       "choice2":"1902",
+       "choice3":"1903",
+       "choice4":"1905",
+       "answer": 4
+   },
+   {
+       "question":"At what age did Albert Einstein died?",
+       "choice1":"74",
+       "choice2":"75" ,
+       "choice3": "76",
+       "choice4": "77",
+       "answer": 3
+   
+   },
+   {
+       "question":"Who could not talk till the age of two-and-a-half ?",
+       "choice1":"Albert Einstein",
+       "choice2":"A. P. J. Abdul Kalam",
+       "choice3":"Bismillah Khan",
+       "choice4":"Evelyn Glennie",
+       "answer": 1
+   },
+   {
+       "question":"Albert Einstein was a ..........  .",
+       "choice1":"Geographer",
+       "choice2": "Writer",
+       "choice3": "Scientist",
+       "choice4": "Poet",
+       "answer": 3
+   
+   },
+   {
+       "question":"When did Einstein get the Nobel Prize ?",
+       "choice1":"1921",
+       "choice2":"1930",
+       "choice3":"1933",
+       "choice4":"1919",
+       "answer": 1
+   },
+   {
+       "question":"Einstein was much interested in -",
+       "choice1":"Chemistry",
+       "choice2": "Physics",
+       "choice3": "Literature",
+       "choice4": "Economics",
+       "answer": 2
+   
+   },
+   {
+       "question":"Einstein was remembered as-",
+       "choice1":"world citizen",
+       "choice2":"world leader",
+       "choice3":"world saint",
+       "choice4":"world poet",
+       "answer": 1
+   },
+   {
+       "question":"Einstein's famous theory was - ",
+       "choice1":"theory of evolution",
+       "choice2": "theory of conductivity",
+       "choice3": "theory of relativity",
+       "choice4": "theory of interitence",
+       "answer": 3
+   
+   },
+   {
+       "question":"Which university did Albert Einstein get his degree ?",
+       "choice1":"Zurich university",
+       "choice2":"Harward university",
+       "choice3":"Oxford university",
+       "choice4":"None of these",
+       "answer": 1
+   },
+   {
+       "question":"For which subject was Einstein awarded the Nobel Prize ?",
+       "choice1":"Economics",
+       "choice2": "Chemistry",
+       "choice3": "Physics",
+       "choice4": "History",
+       "answer": 3
+   
+   },
+   {
+       "question":"Whom did Albert want to marry right after finishing studies ?",
+       "choice1":"Mary",
+       "choice2":"Mileva",
+       "choice3":"Blair",
+       "choice4":"Margie",
+       "answer": 2
+   },
+   {
+       "question":"Einstein born in the city of Ulm of - ",
+       "choice1":"Bulgaria",
+       "choice2": "Germany",
+       "choice3": "France",
+       "choice4": "America",
+       "answer": 2
+   
+   },
+   {
+       "question":"Who has written the story 'The Snake and the Mirror' ?",
+       "choice1":"Vikram Seth",
+       "choice2":"Isaac Asimov",
+       "choice3":"Deborach Cowley",
+       "choice4":"Vaikom Muhammad Basheer",
+       "answer": 4
+   },
+   {
+       "question":"What kind of woman the doctor want to marry ?",
+       "choice1":"Thin woman",
+       "choice2": "Fat woman",
+       "choice3": "Angry woman",
+       "choice4": "Tall woman",
+       "answer": 2
+   
+   },
+   {
+       "question":"What made the speaker remembered God ?",
+       "choice1":"the fear of drowning",
+       "choice2":"the fear of fire",
+       "choice3":"the fear of death ",
+       "choice4":"the fear of going to school",
+       "answer": 3
+   }
+   
+   
+   
+   
+   ]

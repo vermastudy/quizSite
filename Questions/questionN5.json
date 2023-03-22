@@ -1,0 +1,176 @@
+[
+    {
+       "question":"What did Kalam think and say about his parents?",
+       "choice1":"They were tall,",
+       "choice2": "Handsome",
+       "choice3": "Wise",
+       "choice4": "All of these",
+       "answer": 4
+   
+   },
+   {
+       "question":"How much money would the child, Kalam collect for a day's collection of tamarind?",
+       "choice1":"One rupee",
+       "choice2":"Two anna",
+       "choice3":"One anna",
+       "choice4":"None of these",
+       "answer": 3
+   },
+   {
+       "question":"The high priest of Rameshwaram temple was -",
+       "choice1":"Pakshi Lakshman Shastry",
+       "choice2": "Ramananda Shastry",
+       "choice3": "Aravindan",
+       "choice4": "Siva Prakasan",
+       "answer": 1
+   
+   },
+   {
+       "question":"Who was Montmorency ?",
+       "choice1":"Jerome's friend",
+       "choice2":"Jerome's neighbour",
+       "choice3":"Jerome's cousin",
+       "choice4":"Jerome's pet dog",
+       "answer": 4
+   },
+   {
+       "question":"The lesson 'Packing' has been written by - ",
+       "choice1":"Vikram Seth",
+       "choice2": "Jerome K. Jerome",
+       "choice3": "Isaac Asimov",
+       "choice4": "Deborah Cowley",
+       "answer": 2
+   
+   },
+   {
+       "question":"The three friends in the lesson 'Packing' are-",
+       "choice1":"George, Jenson, Harris",
+       "choice2":"George, Hari, Jack",
+       "choice3":"George, Harris, Jerome",
+       "choice4":"None of these",
+       "answer": 3
+   },
+   {
+       "question":"When was the packing finished ?",
+       "choice1":"Ten in the night",
+       "choice2": "Six in the morning",
+       "choice3": "12:50 in the night",
+       "choice4": "Six in the evening",
+       "answer": 3
+   
+   },
+   {
+       "question":" 'I said I'd pack' who said this?",
+       "choice1":"The narrator",
+       "choice2":"The exlores",
+       "choice3":"The intruder",
+       "choice4":"The curator",
+       "answer": 1
+   },
+   {
+       "question":"Who was irritation George and Harris ?",
+       "choice1":"Jerome",
+       "choice2": "Montmorency",
+       "choice3": "Packing",
+       "choice4": "All of these",
+       "answer": 2
+   
+   },
+   {
+       "question":"What was Montmorency's contribution to the packing ?",
+       "choice1":"Made packing easier",
+       "choice2":"Packing became quicker",
+       "choice3":"Packing was worshened",
+       "choice4":"All of these",
+       "answer": 3
+   },
+   {
+       "question":"What was the writer(Jerome) proud of ?",
+       "choice1":"His selling skills",
+       "choice2": "His learning abilities",
+       "choice3": "His negotiation skills",
+       "choice4": "His packing skills",
+       "answer": 4
+   
+   },
+   {
+       "question":"What was the most irritating thing for Jerome?",
+       "choice1":"Montmorency",
+       "choice2":"People's behaviour",
+       "choice3":"Seeing people doing nothing",
+       "choice4":"Packing",
+       "answer": 3
+   },
+   {
+       "question":"Who packed the hampers ?",
+       "choice1":"Montmorency",
+       "choice2": "George and Harris",
+       "choice3": "Jerome",
+       "choice4": "All of these",
+       "answer": 2
+   
+   },
+   {
+       "question":"What did Jerome often forget to pack ?",
+       "choice1":"His shirts",
+       "choice2":"Books",
+       "choice3":"Toothbrush",
+       "choice4":"All of these",
+       "answer": 3
+   },
+   {
+       "question":"What did Montmorency think the lemon to be ?",
+       "choice1":"Rats",
+       "choice2": "Squirrels",
+       "choice3": "Balls",
+       "choice4": "None of these",
+       "answer": 1
+   
+   },
+   {
+       "question":"Santosh Yadav scaled the Mount Everest for the first time ?",
+       "choice1":"In 1990",
+       "choice2":"In 1980",
+       "choice3":"In 1992",
+       "choice4":"In 1995",
+       "answer": 3
+   },
+   {
+       "question":"Who was the youngest women in the world who scaled Mt. Everest ?",
+       "choice1":"Maria Sharapova",
+       "choice2": "Katherine Mansfield",
+       "choice3": "Evelyn Glennie",
+       "choice4": "Santosh Yadav",
+       "answer": 4
+   
+   },
+   {
+       "question":"Why was Santosh sent to a local school ?",
+       "choice1":"Her parents were poor",
+       "choice2":"Her parents were rich",
+       "choice3":"It was a custom in the family.",
+       "choice4":"It was near her house",
+       "answer": 3
+   },
+   {
+       "question":"Sontosh's parents were a ............ .",
+       "choice1":"merchants",
+       "choice2": "engineer",
+       "choice3": "landowners",
+       "choice4": "craftmen",
+       "answer": 3
+   
+   },
+   {
+       "question":"Where did Santosh Yadav live in Jaipur ?",
+       "choice1":"Kasturba Hostel",
+       "choice2":"Prabhawati Hostel",
+       "choice3":"Karmawati Hostel",
+       "choice4":"Teresa Hostel",
+       "answer": 1
+   }
+   
+   
+   
+   
+   ]

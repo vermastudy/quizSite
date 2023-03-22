@@ -1,0 +1,176 @@
+[
+    {
+       "question":"Where did the narratory of the story 'The Snake of the Mirror' ?",
+       "choice1":"Small opened house",
+       "choice2": "Small rented house",
+       "choice3": "Small gifted house",
+       "choice4": "Small pucca house",
+       "answer": 2
+   
+   },
+   {
+       "question":"What made the noise in the doctor's room?",
+       "choice1":"the owls",
+       "choice2":"the snakes",
+       "choice3":"the rats",
+       "choice4":"the pigeon",
+       "answer": 3
+   },
+   {
+       "question":"The narrator of the story 'The Snake of the Mirror' was a -",
+       "choice1":"Teacher",
+       "choice2": "Doctor",
+       "choice3": "Farmer",
+       "choice4": "Engineer",
+       "answer": 2
+   
+   },
+   {
+       "question":"The doctor wants to look -",
+       "choice1":"handsome",
+       "choice2":"smart",
+       "choice3":"grave",
+       "choice4":"shy",
+       "answer": 1
+   },
+   {
+       "question":"The snake coiled around -",
+       "choice1":"the doctor's left arm",
+       "choice2": "the doctor's right arm",
+       "choice3": "the doctor's left leg",
+       "choice4": "the doctor's right leg",
+       "answer": 1
+   
+   },
+   {
+       "question":"Whom did the doctor wants to marry ?",
+       "choice1":"A scientist",
+       "choice2":"A teacher",
+       "choice3":"A women doctor",
+       "choice4":"A singer",
+       "answer": 3
+   },
+   {
+       "question":"HOw many times did the doctor hear the sound of rats?",
+       "choice1":"Once",
+       "choice2": "Twice",
+       "choice3": "Thrice",
+       "choice4": "Four times",
+       "answer": 3
+   
+   },
+   {
+       "question":"What is 'Malaria Medica' ?",
+       "choice1":"a book",
+       "choice2":"a medicine",
+       "choice3":"a paper",
+       "choice4":"a magazine",
+       "answer": 1
+   },
+   {
+       "question":"The second World War was broke out in -",
+       "choice1":"1934",
+       "choice2": "1935",
+       "choice3": "1937",
+       "choice4": "1939",
+       "answer": 4
+   
+   },
+   {
+       "question":"Who was the Kalam's science teacher?",
+       "choice1":"Ramanatha Shastri",
+       "choice2":"Siva Subramania Iyer",
+       "choice3":"Sivapakasan",
+       "choice4":"None of these",
+       "answer": 2
+   },
+   {
+       "question":"Who has written the autobiography 'My Childhood' ?",
+       "choice1":"Vikram Seth",
+       "choice2": "A. P. J. Abdul Kalam",
+       "choice3": "Isaac Asimov",
+       "choice4": "Deborah Cowley",
+       "answer": 2
+   
+   },
+   {
+       "question":"Where was A. P. J. Abdul Kalam born?",
+       "choice1":"Ramanathpuram",
+       "choice2":"Ramachandrapuram",
+       "choice3":"Rameswaram",
+       "choice4":"Ramapuram",
+       "answer": 3
+   },
+   {
+       "question":"A. P. J. Abdul Kalam was born in - ",
+       "choice1":"a middle class Tamil family",
+       "choice2": "a upper class Telugu family",
+       "choice3": "a low grade TAmil family",
+       "choice4": "a rich family",
+       "answer": 1
+   
+   },
+   {
+       "question":"Who was Samsuddin?",
+       "choice1":"Abdul Kalam's father",
+       "choice2":"Abdul Kalam's brother",
+       "choice3":"Abdul Kalam's cousin",
+       "choice4":"Abdul Kalam's uncle",
+       "answer": 3
+   },
+   {
+       "question":"Abdul Kalam's father's name was - ",
+       "choice1":"Shafiullah",
+       "choice2": "Jainulabdeen",
+       "choice3": "Kamaluddeen",
+       "choice4": "None of these",
+       "answer": 2
+   
+   },
+   {
+       "question":"What thing did Abdul Kalam use to collect?",
+       "choice1":"Mustard seeds",
+       "choice2":"Tamarind seeds",
+       "choice3":"Linseed",
+       "choice4":"None of these",
+       "answer": 2
+   },
+   {
+       "question":"Abdul Kalam's mother's name was -",
+       "choice1":"Ashiamma",
+       "choice2": "Dinamani",
+       "choice3": "Rukhaiya",
+       "choice4": "Begum Akhtar",
+       "answer": 1
+   
+   },
+   {
+       "question":"The name of the Tamil news paper distributed by Kalam was - ",
+       "choice1":"Dinamani",
+       "choice2":"Sentinel",
+       "choice3":"Sanmarg",
+       "choice4":"Azad Sipahi",
+       "answer": 1
+   },
+   {
+       "question":"How old was Kalam when Second World War brokeout ?",
+       "choice1":"10 years",
+       "choice2": "8 years",
+       "choice3": "6 years",
+       "choice4": "12 years",
+       "answer": 2
+   
+   },
+   {
+       "question":"In which state of India is Rameshwaram?",
+       "choice1":"Tamil Nadu",
+       "choice2":"Chennai",
+       "choice3":"Kerala",
+       "choice4":"None of these",
+       "answer": 1
+   }
+   
+   
+   
+   
+   ]

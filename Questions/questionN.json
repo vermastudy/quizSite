@@ -1,0 +1,176 @@
+[
+    {
+       "question":"Who wrote 'The Fun They Had' ?",
+       "choice1":"Isaac Asimov",
+       "choice2": "Kenneth Anderson",
+       "choice3": "Vikram Seth",
+       "choice4": "V. M. Basheer",
+       "answer": 1
+   
+   },
+   {
+       "question":"What was the name of Margie's mother?",
+       "choice1":"Mrs. Jones",
+       "choice2":"Mrs. Knight",
+       "choice3":"Mrs. Jefferson",
+       "choice4":"Mrs. Katherine",
+       "answer": 1
+   },
+   {
+       "question":"Today Tommy found - ",
+       "choice1":" a story book",
+       "choice2": "a play book",
+       "choice3": "a real book",
+       "choice4": "a hand book",
+       "answer": 3
+   
+   },
+   {
+       "question":"Margie always hated her -",
+       "choice1":"playground",
+       "choice2":"park",
+       "choice3":"school",
+       "choice4":"bedroom",
+       "answer": 3
+   },
+   {
+       "question":"What did Margie writer in her diary?",
+       "choice1":"Tommy found a unreal book",
+       "choice2": "Tommy found a real book",
+       "choice3": "Tommy found a fake book",
+       "choice4": "Tommy found a real story",
+       "answer": 2
+   
+   },
+   {
+       "question":"Margie's school room was -",
+       "choice1":"next to her kitchen room",
+       "choice2":"next to her bedroom",
+       "choice3":"next to her bathroom",
+       "choice4":"next to her study room",
+       "answer": 2
+   },
+   {
+       "question":"Margie and Tommy learn ........ subjects.",
+       "choice1":"Geography, Physics, Economics",
+       "choice2": "History, Geography, Mathematics",
+       "choice3": "History, Economics, Biology",
+       "choice4": "Chemistry, Mathematics, Philosophy",
+       "answer": 2
+   
+   },
+   {
+       "question":"Margie was doing badly at .........",
+       "choice1":"Mathematics",
+       "choice2":"History",
+       "choice3":"Geography",
+       "choice4":"Physics",
+       "answer": 3
+   },
+   {
+       "question":"According to the County Inspector Margie's progress was .........",
+       "choice1":"satisfactory",
+       "choice2": "unsatisfactory",
+       "choice3": "good",
+       "choice4": "bad",
+       "answer": 1
+   
+   },
+   {
+       "question":"What kind of teacher did Margie and Tommy have?",
+       "choice1":"P. T. Teacher",
+       "choice2":"Mechanical teacher",
+       "choice3":"School teacher",
+       "choice4":"Sports Teacher",
+       "answer": 2
+   },
+   {
+       "question":"How old was Tommy?",
+       "choice1":"10 years",
+       "choice2": "13 years",
+       "choice3": "15 years",
+       "choice4": "12 years",
+       "answer": 2
+   
+   },
+   {
+       "question":"How old was Margie?",
+       "choice1":"10 years",
+       "choice2":"11 years",
+       "choice3":"12 years",
+       "choice4":"13 years",
+       "answer": 2
+   },
+   {
+       "question":"On which date did Margie make an entry in her diary about school?",
+       "choice1":"16th May, 2057",
+       "choice2": "17th May, 2057",
+       "choice3": "12th September, 2157",
+       "choice4": "12th September, 2057",
+       "answer": 2
+   
+   },
+   {
+       "question":"Margie had to submit her homework in ...........",
+       "choice1":"Punch Code",
+       "choice2":"Abacus code",
+       "choice3":"English",
+       "choice4":"Coding Language",
+       "answer": 1
+   },
+   {
+       "question":"How did Margie and Tommy use to study?",
+       "choice1":"In the school",
+       "choice2": "With computer in the school",
+       "choice3": "With computer at home",
+       "choice4": "Self-study",
+       "answer": 3
+   
+   },
+   {
+       "question":"Why Margie was missing old kind of school?",
+       "choice1":"Her school was not as good as old school.",
+       "choice2":"She was highly disturbed with her performance.",
+       "choice3":"Her great grand parents had studied in the old school.",
+       "choice4":"She wanted to experience the fun of the old school.",
+       "answer": 4
+   },
+   {
+       "question":"How did Evelyn manage to learn playing the instrument?",
+       "choice1":"Listening to her teacher",
+       "choice2": "Listening to her mother",
+       "choice3": "Sensing the sounds",
+       "choice4": "All of these",
+       "answer": 3
+   
+   },
+   {
+       "question":"'The Sound of Music' has been written by - ",
+       "choice1":"Isaac Asimov",
+       "choice2":"Deborah Cowley",
+       "choice3":"Vikram Seth",
+       "choice4":"Oscar Wilde",
+       "answer": 2
+   },
+   {
+       "question":"Ron Forbes was a .......... ",
+       "choice1":"Gitarist",
+       "choice2": "Violin player",
+       "choice3": "percussionist",
+       "choice4": "a singer",
+       "answer": 3
+   
+   },
+   {
+       "question":"What was wrong with Evelyn?",
+       "choice1":"She was blind",
+       "choice2":"She was deaf",
+       "choice3":"She was lame",
+       "choice4":"She was mentally weak.",
+       "answer": 2
+   }
+   
+   
+   
+   
+   ]
