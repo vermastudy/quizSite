@@ -1,175 +1,47 @@
 [
     {
-       "question":
-       "choice1":
-       "choice2": 
-       "choice3": 
-       "choice4": 
-       "answer": 
+       "question":"The correct article in the sentence, 'Honesty is ..... best policy.' is -",
+       "choice1":"the",
+       "choice2": "a",
+       "choice3": "an",
+       "choice4": "y",
+       "answer": 1
    
    },
    {
-       "question":
-       "choice1":
-       "choice2":
-       "choice3":
-       "choice4":
-       "answer": 
+       "question":"Fill the correct article, 'My brother is ...... M.A.'",
+       "choice1":"a",
+       "choice2":"an",
+       "choice3":"the",
+       "choice4":"None of these",
+       "answer": 2
    },
    {
-       "question":
-       "choice1":
-       "choice2": 
-       "choice3": 
-       "choice4": 
-       "answer": 
+       "question":"Which is an exclamatory sentence?",
+       "choice1":"Do you have time for your family?",
+       "choice2": "How brave you are!",
+       "choice3": "The computer is very useful.",
+       "choice4": "Please be quiet",
+       "answer": 2
    
    },
    {
-       "question":
-       "choice1":
-       "choice2":
-       "choice3":
-       "choice4":
-       "answer": 
+       "question":"The simple future tense of the sentence 'It rained in the afternoon.' is-",
+       "choice1":"It had rained in the afternoon",
+       "choice2":"It rains in the afternoon",
+       "choice3":"It will rain in the afternoon",
+       "choice4":"It will be raining in the afternoon",
+       "answer": 3
    },
    {
-       "question":
-       "choice1":
-       "choice2": 
-       "choice3": 
-       "choice4": 
-       "answer": 
+       "question":"The present perfect continuous form of the verb in, 'She ........ studying all day.' is-"
+       "choice1":"has been",
+       "choice2": "is been",
+       "choice3": "have been",
+       "choice4": "had been",
+       "answer": 1
    
-   },
-   {
-       "question":
-       "choice1":
-       "choice2":
-       "choice3":
-       "choice4":
-       "answer": 
-   },
-   {
-       "question":
-       "choice1":
-       "choice2": 
-       "choice3": 
-       "choice4": 
-       "answer": 
-   
-   },
-   {
-       "question":
-       "choice1":
-       "choice2":
-       "choice3":
-       "choice4":
-       "answer": 
-   },
-   {
-       "question":
-       "choice1":
-       "choice2": 
-       "choice3": 
-       "choice4": 
-       "answer": 
-   
-   },
-   {
-       "question":
-       "choice1":
-       "choice2":
-       "choice3":
-       "choice4":
-       "answer": 
-   },
-   {
-       "question":
-       "choice1":
-       "choice2": 
-       "choice3": 
-       "choice4": 
-       "answer": 
-   
-   },
-   {
-       "question":
-       "choice1":
-       "choice2":
-       "choice3":
-       "choice4":
-       "answer": 
-   },
-   {
-       "question":
-       "choice1":
-       "choice2": 
-       "choice3": 
-       "choice4": 
-       "answer": 
-   
-   },
-   {
-       "question":
-       "choice1":
-       "choice2":
-       "choice3":
-       "choice4":
-       "answer": 
-   },
-   {
-       "question":
-       "choice1":
-       "choice2": 
-       "choice3": 
-       "choice4": 
-       "answer": 
-   
-   },
-   {
-       "question":
-       "choice1":
-       "choice2":
-       "choice3":
-       "choice4":
-       "answer": 
-   },
-   {
-       "question":
-       "choice1":
-       "choice2": 
-       "choice3": 
-       "choice4": 
-       "answer": 
-   
-   },
-   {
-       "question":
-       "choice1":
-       "choice2":
-       "choice3":
-       "choice4":
-       "answer": 
-   },
-   {
-       "question":
-       "choice1":
-       "choice2": 
-       "choice3": 
-       "choice4": 
-       "answer": 
-   
-   },
-   {
-       "question":
-       "choice1":
-       "choice2":
-       "choice3":
-       "choice4":
-       "answer": 
    }
-   
    
    
    
