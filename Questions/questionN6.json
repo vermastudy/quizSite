@@ -1,0 +1,176 @@
+[
+    {
+       "question":"Why did Santosh Yadav leave home for Delhi?",
+       "choice1":"To get proper education",
+       "choice2": "To get married",
+       "choice3": "To get medical treatment",
+       "choice4": "To get job",
+       "answer": 1
+   
+   },
+   {
+       "question":"Santosh Yadav scaled Mount Everest at the age of -",
+       "choice1":"Thirty years",
+       "choice2":"Twenty years",
+       "choice3":"Fifteen years",
+       "choice4":"None of these",
+       "answer": 2
+   },
+   {
+       "question":"When other girls wore traditional dresses, Santosh preferred -",
+       "choice1":"Jeans",
+       "choice2": "Shorts",
+       "choice3": "Cloak",
+       "choice4": "None of these",
+       "answer": 2
+   
+   },
+   {
+       "question":"Santosh had manage to save the climber -",
+       "choice1":"Madan Singh",
+       "choice2":"Mohan Singh",
+       "choice3":"Madan Yadav",
+       "choice4":"None of these",
+       "answer": 2
+   },
+   {
+       "question":"Where was Maria Sharapova born?",
+       "choice1":"Serbia",
+       "choice2": "Seberia",
+       "choice3": "Ukraine",
+       "choice4": "Holland",
+       "answer": 2
+   
+   },
+   {
+       "question":"Whose separation made Maria depressed in United States?",
+       "choice1":"Father",
+       "choice2":"Mother",
+       "choice3":"Brother",
+       "choice4":"Sister",
+       "answer": 2
+   },
+   {
+       "question":"When did Maria Sharapva achieve the number one position in women's tennis?",
+       "choice1":"20th January 2004",
+       "choice2": "1st April 2006",
+       "choice3": "22nd August 2005",
+       "choice4": "22nd December 2005",
+       "answer": 3
+   
+   },
+   {
+       "question":"Which country does Maria Sharapova belong to?",
+       "choice1":"America",
+       "choice2":"South Africa",
+       "choice3":"Sweden",
+       "choice4":"Russia",
+       "answer": 4
+   },
+   {
+       "question":"When did Maria Sharapova win the wimbledon ?",
+       "choice1":"2004",
+       "choice2": "2005",
+       "choice3": "2006",
+       "choice4": "2007",
+       "answer": 1
+   
+   },
+   {
+       "question":"Who accompanied Maria Sharapova to Florida?",
+       "choice1":"Her mother",
+       "choice2":"Her father",
+       "choice3":"Her brother",
+       "choice4":"Her sister",
+       "answer": 2
+   },
+   {
+       "question":"Which game did Maria Sharapova play?",
+       "choice1":"Cricket",
+       "choice2": "Tennis",
+       "choice3": "Badminton",
+       "choice4": "Football",
+       "answer": 2
+   
+   },
+   {
+       "question":"What was the name of Maria's Mother ?",
+       "choice1":"Yelena",
+       "choice2":"Daria",
+       "choice3":"Anna",
+       "choice4":"Kira",
+       "answer": 1
+   },
+   {
+       "question":"Maria loves reading the novels of which author?",
+       "choice1":"William Shakespeare",
+       "choice2": "Charles Dickens",
+       "choice3": "Arthur Conan Doyle",
+       "choice4": "Anton Chekov",
+       "answer": 3
+   
+   },
+   {
+       "question":"Who is the author of 'The Bond of Love'?",
+       "choice1":"Vikram Seth",
+       "choice2":"Douglas James",
+       "choice3":"Kenneth Anderson",
+       "choice4":"Coats Kinney",
+       "answer": 3
+   },
+   {
+       "question":"How are the hairs of sloth bears ?",
+       "choice1":"Soft",
+       "choice2": "Shabby",
+       "choice3": "Shadowy",
+       "choice4": "Shaggy",
+       "answer": 4
+   
+   },
+   {
+       "question":"Which other name Bruno was called ?",
+       "choice1":"Baba",
+       "choice2":"Manu",
+       "choice3":"Golu",
+       "choice4":"Bholi",
+       "answer": 1
+   },
+   {
+       "question":"The bear became very attached to author's two -",
+       "choice1":"Street dogs",
+       "choice2": "Pet dogs",
+       "choice3": "Alsatian dog",
+       "choice4": "Wild dogs",
+       "answer": 3
+   
+   },
+   {
+       "question":"Who was Bruno?",
+       "choice1":"A Dog",
+       "choice2":"A sloth bear",
+       "choice3":"A Kangaroo",
+       "choice4":"A Tiger",
+       "answer": 2
+   },
+   {
+       "question":"Bruno was sent to ...... .",
+       "choice1":"National Park",
+       "choice2": "Birsa Zoo",
+       "choice3": "Mysore Zoo",
+       "choice4": "Patna Zoo",
+       "answer": 3
+   
+   },
+   {
+       "question":"A person in charge of a zoo is called-",
+       "choice1":"curator",
+       "choice2":"decorator",
+       "choice3":"narrator",
+       "choice4":"intruder",
+       "answer": 1
+   }
+   
+   
+   
+   
+   ]

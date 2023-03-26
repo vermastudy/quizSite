@@ -1,0 +1,176 @@
+[
+    {
+       "question":"Which poison did Bruno eat?",
+       "choice1":"Barium Chloride",
+       "choice2": "Barium Carbonate",
+       "choice3": "Barium Sulphide",
+       "choice4": "Barium bi-carbonate",
+       "answer": 2
+   
+   },
+   {
+       "question":"What is the main food of sloth bears ?",
+       "choice1":"Apple",
+       "choice2":"Rice",
+       "choice3":"Milk",
+       "choice4":"Termites",
+       "answer": 4
+   },
+   {
+       "question":"What was put around the neck of the baby sloth bear ?",
+       "choice1":"A piece of scarf",
+       "choice2": "A belt",
+       "choice3": "A coloured ribbon",
+       "choice4": "A black rope",
+       "answer": 3
+   
+   },
+   {
+       "question":"After eating some poison what happened to Bruno?",
+       "choice1":"Died",
+       "choice2":"Got fainted",
+       "choice3":"Got paralysed",
+       "choice4":"Poison didn't affected it",
+       "answer": 3
+   },
+   {
+       "question":"The lesson 'Kathmandu' has been written by - ",
+       "choice1":"Isaac Asimov",
+       "choice2": "A. P. J. Abdul Kalam",
+       "choice3": "Vikram Seth",
+       "choice4": "Doughlas James",
+       "answer": 3
+   
+   },
+   {
+       "question":"A sign proclaimes 'Entrance for the Hindus only' at -",
+       "choice1":"Baudhnath Temple",
+       "choice2":"Pashupatinath Temple",
+       "choice3":"Baidyanath Temple",
+       "choice4":"Lotus Temple",
+       "answer": 2
+   },
+   {
+       "question":"'Pashupatinath Temple' is situated in - ",
+       "choice1":"India",
+       "choice2": "Sikkim",
+       "choice3": "Nepal",
+       "choice4": "Tibet",
+       "answer": 3
+   
+   },
+   {
+       "question":" 'Pashupatinath temple' is situated on the bank of river -",
+       "choice1":"Bagmati",
+       "choice2":"Saraswati",
+       "choice3":"Ganga",
+       "choice4":"Gandhak",
+       "answer": 1
+   },
+   {
+       "question":"The Baudhnath Stupa is situated in-",
+       "choice1":"Kathmandu",
+       "choice2": "Janakpur",
+       "choice3": "Birpur",
+       "choice4": "None of these",
+       "answer": 1
+   
+   },
+   {
+       "question":"'The Baudhnath Stupa' is a sacred place for:",
+       "choice1":"The Hindus",
+       "choice2":"The Buddhists",
+       "choice3":"The Jains",
+       "choice4":"The Sikhs",
+       "answer": 2
+   },
+   {
+       "question":"Kathmandu is the capital of -",
+       "choice1":"Burma",
+       "choice2": "Bangladesh",
+       "choice3": "Nepal",
+       "choice4": "China",
+       "answer": 3
+   
+   },
+   {
+       "question":"Who jumped onto a Shivaling at Pashupatinath temple ?",
+       "choice1":"A dog",
+       "choice2":"A cat",
+       "choice3":"A monkey",
+       "choice4":"A rat",
+       "answer": 3
+   },
+   {
+       "question":"Who had written 'If I Were You'?",
+       "choice1":"Vikram Seth",
+       "choice2": "Douglas James",
+       "choice3": "James Kirikup",
+       "choice4": "Kenneth Anderson",
+       "answer": 2
+   
+   },
+   {
+       "question":"What kind of glasses is Gerrard wearing ?",
+       "choice1":"Round",
+       "choice2":"Flat",
+       "choice3":"Black",
+       "choice4":"Horn-rimmed",
+       "answer": 4
+   },
+   {
+       "question":"An intruder is - ",
+       "choice1":"a criminal",
+       "choice2": "a professor",
+       "choice3": "an stranger",
+       "choice4": "a friend ",
+       "answer": 1
+   
+   },
+   {
+       "question":"'If I were you' is a story of -",
+       "choice1":"a beggar",
+       "choice2":"a lawyer",
+       "choice3":"an intruder",
+       "choice4":"a magician",
+       "answer": 3
+   },
+   {
+       "question":"Who was Gerrad ?",
+       "choice1":"A playwright",
+       "choice2": "A poet",
+       "choice3": "A musician",
+       "choice4": "A magician",
+       "answer": 4
+   
+   },
+   {
+       "question":"The Christian's name of Gerrad was -",
+       "choice1":"Isaac Newton",
+       "choice2":"Harris",
+       "choice3":"Vincent Charles",
+       "choice4":"Jerome",
+       "answer": 3
+   },
+   {
+       "question":"Who is the poet of the poem 'The Road Not Taken'?",
+       "choice1":"William Butler Yeats",
+       "choice2": "Robert Frost",
+       "choice3": "Subramania Bharati",
+       "choice4": "Edward Lear",
+       "answer": 2
+   
+   },
+   {
+       "question":"What do the 'two roads' symbolise in the poem 'The Road Not Taken'?",
+       "choice1":"two types of garments",
+       "choice2":"two ways of life",
+       "choice3":"two postures of reading",
+       "choice4":"two ways of writing",
+       "answer": 2
+   }
+   
+   
+   
+   
+   ]
