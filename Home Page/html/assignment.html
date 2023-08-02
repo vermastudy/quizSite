@@ -1,0 +1,237 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Quiz Page</title>
+     <!-- Font Awesome CDN Link  -->
+     <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.3.0/css/all.min.css" integrity="sha512-SzlrxWUlpfuzQ+pcUCosxcglQRNAq/DZjVsC0lE40xsADsfeQoEypE+enwcOiGjk/bSuGGKHEyjSoQ1zVisanQ==" crossorigin="anonymous" referrerpolicy="no-referrer" />
+
+  
+    <!--GOOGLE FONTS (MONTSERRAT) -->
+     <link rel="preconnect" href="https://fonts.googleapis.com">
+    <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+    <link href="https://fonts.googleapis.com/css2?family=Montserrat:ital,wght@0,200;0,300;0,500;0,600;1,300&display=swap" rel="stylesheet">
+    <link rel="stylesheet" href="../style/quiz.css">
+</head>
+<body>
+    <nav>
+        <div class="container navContainer">
+            <a href="./index.html"><h4>VERMA STUDY</h4></a>
+            <ul class="navMenu">
+                <li><a href="./index.html">Home</a></li>
+                <li><a href="./html/quiz.html">Quiz</a></li>
+                <li><a href="./html/blog.html">Blogs</a></li>
+                <li><a href="./html/notes.html">Notes</a></li>
+            </ul>
+            <button id="openMenuBtn"><i class="fa-solid fa-bars"></i></button>
+            <button id="closeMenuBtn"><i class="fa-solid fa-xmark"></i></button>
+        </div>
+    </nav>
+    <!-- ============== End of NavBar =============== -->
+    <header class="headerContainer">
+        <h2>ASSIGNMENTS</h2>
+        <p> HOME/ASSIGNMENTS</p>
+    </header>
+    <section class="categories">
+        <div class="container categoriesContainer">
+           <!-- <h1></h1> -->
+           <div class="classBorder">
+            <h3> English Grammar</h3>
+            <div class="categoriesMain">
+                <article class="category ">
+                    <span class="categoryIcon"><img class="categoryImg" src="../assets/assignment.png" alt="Quiz Logo"></span>
+                    <h4>Verb Forms</h4>
+                    <a class="btn" href="#">Download</a>
+                    
+                </article>
+                <article class="category inactive">
+                    <span class="categoryIcon"><img class="categoryImg" src="../assets/assignment.png" alt="Quiz Logo"></span>
+                    <h4>Assign 2</h4>
+                    <a class="btn" href="#">Download</a>
+                </article>
+                <article class="category inactive">
+                    <span class="categoryIcon"><img class="categoryImg" src="../assets/assignment.png" alt="Quiz Logo"></span>
+                    <h4>Assign 3</h4>
+                    <a class="btn" href="#">Download</a>
+                </article>
+                <article class="category inactive">
+                    <span class="categoryIcon"><img class="categoryImg" src="../assets/assignment.png" alt="Quiz Logo"></span>
+                    <h4>Assign 4</h4>
+                    <a class="btn" href="#">Download</a>
+                    
+                </article>
+                <article class="category inactive">
+                    <span class="categoryIcon"><img class="categoryImg" src="../assets/assignment.png" alt="Quiz Logo"></span>
+                    <h4>Assign 5</h4>
+                    <a class="btn" href="#">Download</a>
+                </article>
+                <article class="category inactive">
+                    <span class="categoryIcon"><img class="categoryImg" src="../assets/assignment.png" alt="Quiz Logo"></span>
+                    <h4>Assign 6</h4>
+                    <a class="btn" href="#">Download</a>
+                </article>
+            </div>
+        </div>
+            <!-- Quizzes for Class 10th -->
+            <!-- <div class="classBorder">
+                <h3> CLASS 10</h3>
+                <div class="categoriesMain">
+                    <article class="category inactive ">
+                        <span class="categoryIcon"><img class="categoryImg" src="../assets/quizPage.png" alt="Quiz Logo"></span>
+                        <h4>Quiz 1</h4>
+                        <a class="btn" href="#">Play</a>
+                        
+                    </article>
+                    <article class="category inactive">
+                        <span class="categoryIcon"><img class="categoryImg" src="../assets/quizPage.png" alt="Quiz Logo"></span>
+                        <h4>Quiz 2</h4>
+                        <a class="btn" href="#">Play</a>
+                    </article>
+                    <article class="category inactive">
+                        <span class="categoryIcon"><img class="categoryImg" src="../assets/quizPage.png" alt="Quiz Logo"></span>
+                        <h4>Quiz 3</h4>
+                        <a class="btn" href="#">Play</a>
+                    </article>
+                    <article class="category inactive">
+                        <span class="categoryIcon"><img class="categoryImg" src="../assets/quizPage.png" alt="Quiz Logo"></span>
+                        <h4>Quiz 4</h4>
+                        <a class="btn" href="#">Play</a>
+                        
+                    </article>
+                    <article class="category inactive">
+                        <span class="categoryIcon"><img class="categoryImg" src="../assets/quizPage.png" alt="Quiz Logo"></span>
+                        <h4>Quiz 5</h4>
+                        <a class="btn" href="#">Play</a>
+                    </article>
+                    <article class="category inactive">
+                        <span class="categoryIcon"><img class="categoryImg" src="../assets/quizPage.png" alt="Quiz Logo"></span>
+                        <h4>Quiz 6</h4>
+                        <a class="btn" href="#">Play</a>
+                    </article>
+                </div>
+            </div>
+              Quizzes for Class 9th 
+             <div class="classBorder">
+                <h3> CLASS 9 </h3>
+                <div class="categoriesMain">
+                    <article class="category inactive">
+                        <span class="categoryIcon"><img class="categoryImg" src="../assets/quizPage.png" alt="Quiz Logo"></span>
+                        <h4>Quiz 1</h4>
+                        <a class="btn" href="#">Play</a>
+                        
+                    </article>
+                    <article class="category inactive">
+                        <span class="categoryIcon"><img class="categoryImg" src="../assets/quizPage.png" alt="Quiz Logo"></span>
+                        <h4>Quiz 2</h4>
+                        <a class="btn" href="#">Play</a>
+                    </article>
+                    <article class="category inactive">
+                        <span class="categoryIcon"><img class="categoryImg" src="../assets/quizPage.png" alt="Quiz Logo"></span>
+                        <h4>Quiz 3</h4>
+                        <a class="btn" href="#">Play</a>
+                    </article>
+                    <article class="category inactive">
+                        <span class="categoryIcon"><img class="categoryImg" src="../assets/quizPage.png" alt="Quiz Logo"></span>
+                        <h4>Quiz 4</h4>
+                        <a class="btn" href="#">Play</a>
+                        
+                    </article>
+                    <article class="category inactive">
+                        <span class="categoryIcon"><img class="categoryImg" src="../assets/quizPage.png" alt="Quiz Logo"></span>
+                        <h4>Quiz 5</h4>
+                        <a class="btn" href="#">Play</a>
+                    </article>
+                    <article class="category inactive">
+                        <span class="categoryIcon"><img class="categoryImg" src="../assets/quizPage.png" alt="Quiz Logo"></span>
+                        <h4>Quiz 6</h4>
+                        <a class="btn" href="#">Play</a>
+                    </article>
+            </div>
+            </div> --> 
+
+            <!-- Quizzes for Class 8th -->
+            <!-- <div class="classBorder">
+                <h3> CLASS 8 </h3>
+                <div class="categoriesMain">
+                    <article class="category">
+                        <span class="categoryIcon"><img class="categoryImg" src="../assets/quizPage.png" alt="Quiz Logo"></span>
+                        <h4>Quiz 1</h4>
+                        <a id="quiz1E" class="btn" href="../../Quiz_Project/index.html" >Play</a>
+                       
+                        
+                    </article>
+                    <article class="category">
+                        <span class="categoryIcon"><img class="categoryImg" src="../assets/quizPage.png" alt="Quiz Logo"></span>
+                        <h4>Quiz 2</h4>
+                        <a id="quiz2E" class="btn" href="../../Quiz_Project1/index.html">Play</a>
+                    </article>
+                    <article class="category">
+                        <span class="categoryIcon"><img class="categoryImg" src="../assets/quizPage.png" alt="Quiz Logo"></span>
+                        <h4>Quiz 3</h4>
+                        <a id="quiz3E" class="btn" href="./Quiz_Project2/index.html">Play</a>
+                    </article>
+                    <article class="category inactive">
+                        <span class="categoryIcon"><img class="categoryImg" src="../assets/quizPage.png" alt="Quiz Logo"></span>
+                        <h4>Quiz 4</h4>
+                        <a id="quiz4E" class="btn" href="./Quiz_Project3/index.html">Play</a>
+                        
+                    </article>
+                    <article class="category inactive">
+                        <span class="categoryIcon"><img class="categoryImg" src="../assets/quizPage.png" alt="Quiz Logo"></span>
+                        <h4>Quiz 5</h4>
+                        <a id="quiz5E" class="btn" href="./Quiz_Project4/index.html">Play</a>
+                    </article>
+                    <article class="category inactive">
+                        <span class="categoryIcon"><img class="categoryImg" src="../assets/quizPage.png" alt="Quiz Logo"></span>
+                        <h4>Quiz 6</h4>
+                        <a id="quiz6E" class="btn" href="/Quiz_Project5/index.html">Play</a>
+                    </article>
+            </div>
+            </div> -->
+        </div>
+     </section>
+    
+    <footer>
+        <div class="container footerContainer">
+            <div class="footer1">
+                <a href="./index.html"><h4>VERMA STUDY</h4></a>
+                <p>Verma Study Centre was founded in the year 2010. Verma Study gives specialized education to the students of class 10th, 9th, 8th and 7th preparing for JAC Board.</p>
+            </div>
+            <div class="footer2">
+                <h4>Permalinks</h4>
+                <ul class="permalinks">
+                    <li><a href="./quiz.html">Quiz</a></li>
+                    <li><a href="#">Blog</a></li>
+                    <li><a href="#">Notes</a></li>
+                </ul>
+            </div>
+            <div class="footer3">
+                <h4>Contact Us</h4>
+               <div>
+                <p> +91 XXX XXX XXXX</p>
+                <p>contact.vermastudy@gmail.com</p>
+               </div>
+
+               <ul class="footerSocial">
+                <li>
+                    <a href="#"><i class="fa-brands fa-facebook"></i>
+                    </a>
+                </li>
+                <li><a href="#"><i class="fa-brands fa-whatsapp"></i>
+                </a></li>
+                <li><a href="#"><i class="fa-brands fa-telegram"></i></a></li>
+               </ul>
+
+            </div>
+           
+        </div>
+        <div class="footerCopyright">
+            <small>Copyright &copy; 2023 VERMA STUDY</small>
+        </div>
+    </footer>
+    <script src="../script/main.js"></script>
+   
+</body>
+</html>
