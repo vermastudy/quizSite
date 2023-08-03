@@ -641,7 +641,9 @@ header{
     margin-top: 4px;
     display: inline-block;
  }
-
+ .downloadbtn {
+     padding: 0.5rem 0.8rem;
+ }
 /* ===== Footer ===== */
 
 .footerContainer {
