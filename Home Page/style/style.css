@@ -505,6 +505,9 @@ header{
     padding: 3rem 5rem;
     border-radius: 1rem;
  }
+#biggerBox {
+    padding: 3rem 3.2rem
+}
  .categoryIcon {
     margin: 10px 0;
     display: inline-block;
