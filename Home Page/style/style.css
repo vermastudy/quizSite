@@ -183,11 +183,11 @@ header {
     margin-bottom: 2rem;
 }
 
-.categoriesContainer {
+/* .categoriesContainer {
     display: grid;
     grid-template-columns: 40% 60%;
     
-}
+} */
 
 .categoriesLeft {
     margin-right: 4rem;
@@ -202,7 +202,7 @@ header {
 }
 .categoriesRight {
     display: grid;
-    grid-template-columns: repeat(3, 1fr);
+    grid-template-columns: repeat(2, 1fr);
     gap: 1.5rem;
 }
 
